@@ -5,7 +5,7 @@ One Paragraph of project description goes here
 ### Build Status
 
 #### Code Quality
-* [[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c04b09260a4462da1efd8abd560d74b)](https://www.codacy.com/manual/josousa82/Template-Repository/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Template-Repository&amp;utm_campaign=Badge_Grade)
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c04b09260a4462da1efd8abd560d74b)](https://www.codacy.com/manual/josousa82/Template-Repository/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Template-Repository&amp;utm_campaign=Badge_Grade)
 
 #### CircleCI
 * [![<CircleCI>](https://circleci.com/gh/josousa82/Template-Repository.svg?style=shield)](https://circleci.com/gh/josousa82/Template-Repository)
